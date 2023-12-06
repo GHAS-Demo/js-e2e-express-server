@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/GH-Demo/Project-100/_apis/build/status%2FGHAS-Demo.js-e2e-express-server?branchName=main)](https://dev.azure.com/GH-Demo/Project-100/_build/latest?definitionId=7&branchName=main)
 ---
 page_type: sample
 languages:
